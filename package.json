@@ -18,7 +18,7 @@
     "release": "GITHUB_TOKEN=$(op read 'op://Personal/Github/Security/token') release-it --ci"
   },
   "devDependencies": {
-    "@babel/core": "^7.23.9",
+    "@babel/core": "^7.24.3",
     "@babel/plugin-transform-typescript": "^7.23.6",
     "@babel/preset-env": "^7.23.9",
     "@babel/preset-typescript": "^7.23.3",
