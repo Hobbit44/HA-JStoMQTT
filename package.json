@@ -37,7 +37,7 @@
     "rimraf": "^5.0.5",
     "ts-jest": "^29.1.2",
     "ts-node": "^10.9.2",
-    "typedoc": "^0.25.9",
+    "typedoc": "^0.26.8",
     "typescript": "*",
     "typescript-eslint": "^8.1.0",
     "utility-types": "^3.11.0"
